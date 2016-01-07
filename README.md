@@ -6,3 +6,5 @@
   https://github.com/nanofaroque/MVVM_Hacker_News/blob/master/app/src/test/java/com/hitherejoe/mvvm_hackernews/PostViewModelTest.java
 3. Using dialog--> User Abstract Factory Design Pattern
   https://github.com/nanofaroque/MVVM_Hacker_News/blob/master/app/src/main/java/com/hitherejoe/mvvm_hackernews/util/DialogFactory.java
+4. Retrofit uses --> 
+  https://github.com/nanofaroque/MVVM_Hacker_News/tree/master/app/src/main/java/com/hitherejoe/mvvm_hackernews/data/remote
