@@ -8,3 +8,7 @@
   https://github.com/nanofaroque/MVVM_Hacker_News/blob/master/app/src/main/java/com/hitherejoe/mvvm_hackernews/util/DialogFactory.java
 4. Retrofit uses --> 
   https://github.com/nanofaroque/MVVM_Hacker_News/tree/master/app/src/main/java/com/hitherejoe/mvvm_hackernews/data/remote
+
+5. Connectivity Test -->
+  https://github.com/nanofaroque/MVVM_Hacker_News/blob/master/app/src/main/java/com/hitherejoe/mvvm_hackernews/util/DataUtils.java
+
