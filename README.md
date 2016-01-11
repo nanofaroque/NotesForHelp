@@ -11,4 +11,6 @@
 
 5. Connectivity Test -->
   https://github.com/nanofaroque/MVVM_Hacker_News/blob/master/app/src/main/java/com/hitherejoe/mvvm_hackernews/util/DataUtils.java
+6. Best practice of SharedPreferences--> 
+  http://stackoverflow.com/questions/8855069/android-sharedpreferences-best-practices
 
