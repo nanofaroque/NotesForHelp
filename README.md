@@ -8,7 +8,7 @@
   https://github.com/nanofaroque/MVVM_Hacker_News/blob/master/app/src/main/java/com/hitherejoe/mvvm_hackernews/util/DialogFactory.java
 4. Retrofit uses --> 
   https://github.com/nanofaroque/MVVM_Hacker_News/tree/master/app/src/main/java/com/hitherejoe/mvvm_hackernews/data/remote
-
+  https://github.com/codepath/android_guides/wiki/Consuming-APIs-with-Retrofit
 5. Connectivity Test -->
   https://github.com/nanofaroque/MVVM_Hacker_News/blob/master/app/src/main/java/com/hitherejoe/mvvm_hackernews/util/DataUtils.java
 6. Best practice of SharedPreferences--> 
