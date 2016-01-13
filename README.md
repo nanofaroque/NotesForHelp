@@ -16,3 +16,6 @@
   http://stackoverflow.com/questions/8855069/android-sharedpreferences-best-practices
   http://stackoverflow.com/questions/15491858/reading-writing-preferences-an-expensive-operation
 
+7. Image Upload by uisng RETROFIT
+   https://github.com/square/retrofit/issues/1217
+
