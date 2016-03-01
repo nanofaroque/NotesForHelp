@@ -19,3 +19,7 @@
 7. Image Upload by uisng RETROFIT
    https://github.com/square/retrofit/issues/1217
 
+8. Error Handling in Retrofit2
+   -->https://futurestud.io/blog/retrofit-2-simple-error-handling
+   -->https://gist.github.com/benvium/66bf24e0de80d609dac0
+
