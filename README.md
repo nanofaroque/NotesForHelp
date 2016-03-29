@@ -23,3 +23,5 @@
    -->https://futurestud.io/blog/retrofit-2-simple-error-handling
    -->https://gist.github.com/benvium/66bf24e0de80d609dac0
 
+9. Creating Android Library and publish help: 
+   -->http://inthecheesefactory.com/blog/how-to-upload-library-to-jcenter-maven-central-as-dependency/en
